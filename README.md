@@ -14,6 +14,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qqsuhao&" alt="qqsuhao" /></p>
 
-<a href="https://github.com/qqsuhao" align="center">
+<p align="center">
+<a href="https://github.com/qqsuhao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qqsuhao&show_icons=true&theme=dracula&repo=convoychat&layout=compact)" />
 </a>
+</p>
