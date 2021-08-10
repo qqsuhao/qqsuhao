@@ -17,8 +17,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qqsuhao&" alt="qqsuhao" /></p>
 
 <a href="https://github.com/qqsuhao">
-  <img align="up left" src="https://github-readme-stats.vercel.app/api?username=qqsuhao&show_icons=true&theme=dracula&repo=convoychat&layout=compact)" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qqsuhao&show_icons=true&theme=dracula&repo=convoychat&layout=compact)" />
 </a>
 <a href="https://github.com/qqsuhao">
-  <img align="up right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqsuhao&show_icons=true&theme=dracula&repo=convoychat&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqsuhao&show_icons=true&theme=dracula&repo=convoychat&layout=compact" />
 </a>
