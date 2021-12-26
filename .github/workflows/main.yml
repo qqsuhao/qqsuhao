@@ -24,7 +24,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: qqsuhao/metrics@master
-
+        with:
+            token: ${{ secrets.METRIC_TOOLS }}
       # See https://github.com/lowlighter/metrics for documentation
       # - name: 🦑 Personal metrics
         # if: ${{ success() || failure() }}
