@@ -76,7 +76,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_skipped: nico-zck/nico-zck
+          plugin_languages_skipped: qqsuhao/qqsuhao
           plugin_languages_indepth: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 600
