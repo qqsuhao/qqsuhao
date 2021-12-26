@@ -31,7 +31,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOOLS }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Asia/Shanghai
 
@@ -55,7 +55,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.languages.most.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOOLS }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
@@ -72,7 +72,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.languages.recent.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOOLS }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
@@ -104,7 +104,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOOLS }}
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 12
