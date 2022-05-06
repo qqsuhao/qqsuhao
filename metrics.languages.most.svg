@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.2mb of code in 1164 edited files across 1839 commits</small>
+                <small>estimation from 14.2mb of code in 1164 edited files across 1840 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.6346637174021" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="344.6346637174021" y="0" width="82.48335981241507" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="427.11802352981715" y="0" width="30.772658865680775" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.8906823954979" y="0" width="0.5582781466461273" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.44896054214405" y="0" width="0.5118700374561653" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="458.9608305796002" y="0" width="0.5105492374533461" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.47137981705356" y="0" width="0.44018661912134693" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.9115664361749" y="0" width="0.08843356382511511" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.7175368446505" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="344.7175368446505" y="0" width="82.42410757778482" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="427.1416444224353" y="0" width="30.75055320937079" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.89219763180614" y="0" width="0.5578771054202455" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.4500747372264" y="0" width="0.5115023336716865" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="458.96157707089804" y="0" width="0.5101824824705632" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.4717595533686" y="0" width="0.4398704093925411" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9116299627612" y="0" width="0.0883700372388452" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,7 +42,7 @@
                             </div>
                             <small>
                                 <div>145k lines</div>
-                                <div>74.92%</div>
+                                <div>74.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,7 +54,7 @@
                             </div>
                             <small>
                                 <div>13.2k lines</div>
-                                <div>6.69%</div>
+                                <div>6.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -92,7 +92,7 @@
                             </div>
                             <small>
                                 <div>35.6k lines</div>
-                                <div>17.93%</div>
+                                <div>17.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
