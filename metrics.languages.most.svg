@@ -24,12 +24,12 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="249.98335895504968" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="249.98335895504968" y="0" width="126.5606214218966" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="376.5439803769463" y="0" width="59.71476273849693" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="436.2587431154432" y="0" width="22.278214989979656" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="458.53695810542285" y="0" width="0.40417178864776865" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.9411298940706" y="0" width="0.3705741122713061" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="459.3117040063419" y="0" width="0.3696179041467496" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.68132191048863" y="0" width="0.31867808951128507" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="376.5439803769463" y="0" width="59.5778511206627" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="436.12183149760904" y="0" width="22.41512660781388" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="458.5369581054229" y="0" width="0.40417178864776865" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.9411298940707" y="0" width="0.3705741122713061" height="8" fill="#3A4E3A"/>
+                    <rect mask="url(#languages-bar)" x="459.311704006342" y="0" width="0.3696179041467496" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.6813219104887" y="0" width="0.31867808951128507" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -53,8 +53,8 @@
                                 C
                             </div>
                             <small>
-                                <div>35.6k lines</div>
-                                <div>12.98%</div>
+                                <div>35.5k lines</div>
+                                <div>12.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,8 +103,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>13.2k lines</div>
-                                <div>4.84%</div>
+                                <div>13.3k lines</div>
+                                <div>4.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
